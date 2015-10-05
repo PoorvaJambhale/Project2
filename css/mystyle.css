@@ -1,0 +1,31 @@
+  body {
+		background-color: #E9D3FF;
+		font-family: "Arial", Arial;
+	}
+	
+  #error {
+  	color:red;
+  }
+  
+  #wrapper #contains_body #LeftLinks {
+		display: inline-block;
+		vertical-align: middle;
+		float:left;
+		margin-top: 20px;
+	}
+	
+  #wrapper #contains_body #AdminLeftLinks {
+		display: inline-block;
+		vertical-align: middle;
+		float:left;
+		margin-top: 40px;
+	}
+	
+	#wrapper #contains_body #body_content {
+		display: inline-block;
+		float:center;
+		margin-left: 70px;
+		margin-top: 40px;
+		width:55%;
+	}
+	
